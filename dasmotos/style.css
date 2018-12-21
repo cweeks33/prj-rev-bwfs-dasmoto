@@ -1,0 +1,15 @@
+html {
+  font-family: Helvetica, sans-serif;
+}
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(/Users/cweeks/Documents/projects/dasmotos/pattern.jpeg);
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
